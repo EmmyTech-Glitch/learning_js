@@ -267,7 +267,7 @@ btnclick.addEventListener("click",function(){
     //redirection time
      setTimeout(() => {
         location.href = "index.html";
-    }, 5000);
+    }, 3000);
 
   }
   else if (inputvalue >= 18 && inputvalue <= 40){
